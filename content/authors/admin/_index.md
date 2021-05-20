@@ -1,12 +1,12 @@
 ---
 # Display name
-title: MMMM MMMMM MMMMM
+title: Mateusz Wąsalski
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Junior Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,26 +14,29 @@ organizations:
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am working with financial and unstructured data. I am also doing case studies from Kaggle.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Statistical Learning
+- Machine Learning
+- Text Mining/NLP
+- Credit Risk Scoring
+- Trail Running
+- Road Cycling 
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Postgraduate in Data Science
+    institution: AGH University of Science and Technology
+    year: 2021
+  - course: Postgraduate in Lean Management
+    institution: University of Economics in Wroclaw
+    year: 2020
+  - course: BSc in Economics
+    institution: University of Economics in Katowice
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
