@@ -19,7 +19,7 @@ feature:
 - description: 90%
   icon: r-project
   icon_pack: fab
-  name: R111111
+  name: R Studio
 - description: 100%
   icon: chart-line
   icon_pack: fas
