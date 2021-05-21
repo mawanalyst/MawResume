@@ -65,15 +65,15 @@ feature:
 - description: 90%
   icon: r-project
   icon_pack: fab
-  name: R
+  name: R12
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Statistics12
 - description: 10%
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: Photography12
 
 
 
