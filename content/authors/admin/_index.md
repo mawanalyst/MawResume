@@ -9,9 +9,9 @@ superuser: true
 role: Junior Data Scientist
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+#organizations:
+# - name: Stanford University
+# url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am working with financial and unstructured data. I am also doing case studies from Kaggle.
@@ -28,10 +28,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Postgraduate in Data Science
+  - course: PgD in Data Science
     institution: AGH University of Science and Technology
     year: 2021
-  - course: Postgraduate in Lean Management
+  - course: PgD in Lean Management
     institution: University of Economics in Wroclaw
     year: 2020
   - course: BSc in Economics
