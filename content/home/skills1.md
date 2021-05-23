@@ -28,10 +28,12 @@ feature:
   icon: camera-retro
   icon_pack: fas
   name: SQL
-- description: Advanced
-  icon: r-project
-  icon_pack: fab
-  name: MS Excel 
+  
+[[feature]]
+  icon = "excel"
+  icon_pack = "custom"
+  name = "Excel"
+
 - description: Intermediate
   icon: chart-line
   icon_pack: fas
