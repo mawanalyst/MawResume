@@ -28,6 +28,10 @@ feature:
   icon: database
   icon_pack: fas
   name: SQL
+- description: Advanced
+  icon: file-excel
+  icon_pack: fas
+  name: MS EXcel
 - description: Intermediate
   icon: file-powerpoint
   icon_pack: fas
