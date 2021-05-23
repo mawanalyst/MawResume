@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Intermediate
-  icon: excel
+  icon: excel.svg
   icon_pack: custom
   name: R 
 - description: Intermediate
