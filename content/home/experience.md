@@ -22,19 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Analysis and investment Officer
+    company: PCC Intermodal
     company_url: ''
     # company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Sosnowiec
+    date_start: '2020-07'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Managing stock for assigned clients
+        * Planning production and logistics
+        * eaching my cooworkers basics of Lean
         
   - title: Professor of Semiconductor Physics
     company: University X
