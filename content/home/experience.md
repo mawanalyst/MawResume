@@ -30,7 +30,7 @@ experience:
     date_start: '2021-07'
     date_end: ''
     description: |2-
-    Responsibilities include:
+        Responsibilities include:
         
         * Generating weekly and monthly reports 
         * Creating ad-hoc reports
@@ -40,15 +40,10 @@ experience:
     company: DS Smith
     company_url: ''
     #company_logo: org-x
-    location: Czeladz
-    date_start: '2019-09'
-    date_end: '2020-05'
-    description: |2-
-    Responsibilities include:
-  
-        * Managing stock for assigned clients
-        * Planning production and logistics
-        * Teaching my cooworkers basics of Lean
+    location: Czelad
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
