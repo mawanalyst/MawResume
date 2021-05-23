@@ -50,21 +50,7 @@ experience:
         * Managing stock for assigned clients
         * Planning production and logistics
         * Teaching my cooworkers basics of Lean.
-         
-  - title: Sales and Customer Service Specialist
-    company: DS Smith
-    company_url: ''
-    # company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: |2-
-        Responsibilities include:
-        
-        * Managing stock for assigned clients
-        * Planning production and logistics
-        * Teaching my cooworkers basics of Lean.
-  
+
   - title: Perishables Sales Manager
     company: Jeronimo Martins Poland
     company_url: ''
@@ -106,10 +92,6 @@ experience:
         * Analyzing sales data
         * Handling a third-party claims
         * Clearing quantative differences in SAP between stores and warehouse
-
-
-
-
 
 design:
   columns: '2'
