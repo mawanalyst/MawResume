@@ -17,8 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Intermediate
-  icon: "excel"
-  icon_pack: "custom"
+  icon: excel
+  icon_pack: custom
   name: R 
 - description: Intermediate
   icon: chart-line
