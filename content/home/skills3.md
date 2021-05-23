@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Hobby
 subtitle:
 
 # Showcase personal skills or business features.
@@ -19,11 +19,23 @@ feature:
 - description: 90%
   icon: r-project
   icon_pack: fab
-  name: R Hard
+  name: R 
 - description: 100%
   icon: chart-line
   icon_pack: fas
   name: Statistics
+- description: 10%
+  icon: camera-retro
+  icon_pack: fas
+  name: Photography
+- description: 10%
+  icon: camera-retro
+  icon_pack: fas
+  name: Photography
+- description: 10%
+  icon: camera-retro
+  icon_pack: fas
+  name: Photography
 - description: 10%
   icon: camera-retro
   icon_pack: fas

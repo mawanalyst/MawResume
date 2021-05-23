@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Data Skills
 subtitle:
 
 # Showcase personal skills or business features.
@@ -19,7 +19,7 @@ feature:
 - description: 90%
   icon: r-project
   icon_pack: fab
-  name: R Soft
+  name: R Hard
 - description: 100%
   icon: chart-line
   icon_pack: fas
