@@ -21,7 +21,6 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-
 experience:
   - title: Analysis and investment Officer
     company: PCC Intermodal
