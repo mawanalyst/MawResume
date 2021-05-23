@@ -10,8 +10,8 @@ role: Junior Data Scientist
 
 # Organizations/Affiliations to show in About widget
 #organizations:
-# - name: Stanford University
-# url: https://www.stanford.edu/
+- name: Stanford University
+url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am working with financial and unstructured data. I am also doing case studies from Kaggle.
