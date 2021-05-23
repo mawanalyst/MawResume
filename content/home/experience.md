@@ -34,7 +34,7 @@ experience:
         
         * Generating weekly and monthly reports 
         * Creating ad-hoc reports
-        * Co-writing tendersn
+        * Co-writing tenders
         
   - title: Professor of Semiconductor Physics
     company: University X
