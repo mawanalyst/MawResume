@@ -16,9 +16,9 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: runing
+- icon: running
   icon_pack: fas
-  name: Teamplay
+  name: Trail Running
 - icon: biking
   icon_pack: fas
   name: Road Cycling
