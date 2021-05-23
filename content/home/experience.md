@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Managing stock for assigned clients
-        * Planning production and logistics
-        * eaching my cooworkers basics of Lean
+        * Generating weekly and monthly reports 
+        * Creating ad-hoc reports
+        * Co-writing tendersn
         
   - title: Professor of Semiconductor Physics
     company: University X
@@ -43,7 +43,12 @@ experience:
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        Responsibilities include:
+        
+        * Managing stock for assigned clients
+        * Planning production and logistics
+        * Teaching my cooworkers basics of Lean.
 
 design:
   columns: '2'
