@@ -9,22 +9,21 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Soft Skills
+title: Hobby
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: users
+- icon: runing
   icon_pack: fas
   name: Teamplay
-- description: 100%
-  icon: chart-line
+- icon: biking
   icon_pack: fas
-  name: Statistics
-- icon: "excel"
-  icon_pack: "custom"
+  name: Road Cycling
+- icon: camera-retro
+  icon_pack: fas
   name: Photography
 
 # Uncomment to use emoji icons.

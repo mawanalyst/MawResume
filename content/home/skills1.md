@@ -17,23 +17,23 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Intermediate
-  icon: excel
-  icon_pack: custom
+  icon: r-project
+  icon_pack: fab
   name: R 
 - description: Intermediate
-  icon: chart-line
-  icon_pack: fas
+  icon: python
+  icon_pack: fab
   name: Python
 - description: Intermediate
-  icon: camera-retro
+  icon: database
   icon_pack: fas
   name: SQL
 - description: Intermediate
-  icon: chart-line
+  icon: file-powerpoint
   icon_pack: fas
   name: MS Power Point
 - description: Intermediate
-  icon: camera-retro
+  icon: file-word
   icon_pack: fas
   name: MS Word
 
